@@ -1,0 +1,27 @@
+textarea {
+  width: 100%;
+  max-width: 100%;
+  min-width: 100%;
+  min-height: 150px;
+  margin-bottom: 10px;
+}
+
+button {
+  font-size: 15px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  margin-bottom: 5px;
+  width: 150px;
+  border: none;
+  border-radius: 3px;
+  background-color: skyblue;
+}
+
+button:focus {
+  outline-width: 0!important;
+}
+
+button:hover {
+  cursor: pointer;
+  opacity: 0.5;
+}

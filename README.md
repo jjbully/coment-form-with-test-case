@@ -1,3 +1,9 @@
+## Comment box and comment list
+- This simple app is written in React and using Redux to manage the state 
+- This app is tested with Enzyme (https://airbnb.io/enzyme/)
+- This app fetch fake comments from JSONPlaceholder (https://jsonplaceholder.typicode.com/)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

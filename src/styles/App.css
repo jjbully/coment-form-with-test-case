@@ -1,0 +1,16 @@
+body, textarea, li {
+  font-family: 'Roboto';
+  font-size: 20px;
+  line-height: 1.2
+}
+
+h4 {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+.outter-box {
+  max-width: 500px;
+  width: 80%;
+  margin: 50px auto 0;
+}
